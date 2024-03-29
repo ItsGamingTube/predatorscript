@@ -11,9 +11,9 @@ The best tool used for trolling, and pranking your friends, or using it at schoo
 ## How to Install
 The Predator Script tool can be easily installed on any computer running on the Windows operating system, created by Microsoft.
 
-- 1. Download the desired file from the Github Releases tab. We recommend you to get the latest version available.
-- 2. After downloading, open the batch file, ending in .bat.
-- 3. You're done! Additionally, you can place the file in a secret folder, set up password protection and configure the script in the settings, which can be found in the script.
+1. Download the desired file from the Github Releases tab. We recommend you to get the latest version available.
+2. After downloading, open the batch file, ending in .bat.
+3. You're done! Additionally, you can place the file in a secret folder, set up password protection and configure the script in the settings, which can be found in the script.
 
 ## Modules
 The script has multiple features, which we call modules, that are available to use. The options are listed below, as well as in the script menu.
